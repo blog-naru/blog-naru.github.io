@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "stay-india",
-    "repositoryName": "stay-india.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"stay-india","repositoryName":"stay-india.github.io","branch":"master"},"site":{"title":"インドつーかバンガロール滞在日誌みたいなやつ","url":"https://stay-india.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//stay-india.github.io/themes/Casper"}}
