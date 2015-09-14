@@ -2,4 +2,4 @@
 
 I've just got HubPress setup here on GitHub pages, I love Qiita!:)
 
-:hp-tags: hubpress test
+:hp-tags: hubpress, test
