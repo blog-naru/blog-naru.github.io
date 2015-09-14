@@ -10,4 +10,4 @@
 なかなか難しい。
 
 
-:hp-tags:英語
+:hp-tags:English
