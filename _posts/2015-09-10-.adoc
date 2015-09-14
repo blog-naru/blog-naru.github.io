@@ -12,4 +12,4 @@
 三日坊主にならないように気を付けます・。・ｖ
 
 :hp-tags: india
-:hp-tags: hubpress
+:hp-tags: india , hubpress
