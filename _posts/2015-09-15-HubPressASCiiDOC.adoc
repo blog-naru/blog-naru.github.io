@@ -1,0 +1,31 @@
+= HubPressでブログ書くためにASCiiDOCの記法をまとめました。
+
+
+== ネットにつながってなくても書きたい！
+
+HubPressはブラウザ上で書くものだけれども、ASCiiDOCをローカルでも快適に書けるようにしよう。
+専用のソフトでも仕方ないかなって思いつつも、Atomのパッケージとかでどうにかなるならそれがよいなと思って検索。
+apm search asciidoc
+入れた方がよさげなのが2つあったので以下の2つをインストールした。
+
+* https://atom.io/packages/asciidoc-preview[asciidoc-preview]
+* https://atom.io/packages/language-asciidoc[language-asciidoc]
+
+Atomのパッケージ
+
+
+キーマップ変更
+
+実際にどれくらいの時差があるか
+
+ってまあ正直に言ってどのへんかのとか思うけど確かにある。
+
+
+
+参考
+
+https://powerman.name/doc/asciidoc[ASCiiDOC cheatsheet]
+
+http://qiita.com/xmeta@github/items/de667a8b8a0f982e123a[ASCiiDOC入門 - Qiita]
+
+:hp-tags: ASCiiDOC, HubPress
