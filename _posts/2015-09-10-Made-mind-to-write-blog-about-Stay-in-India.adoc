@@ -1,4 +1,5 @@
 = インド滞在のことをブログにしようと思いました
+:hp-image: https://cloud.githubusercontent.com/assets/8326452/9882148/e6a7f16a-5bf0-11e5-93db-998f19a81df4.jpg
 :hp-alt-title: Made mind to write blog about Stay in India
 
 
