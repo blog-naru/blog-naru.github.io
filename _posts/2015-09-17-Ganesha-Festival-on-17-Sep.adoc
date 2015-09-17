@@ -48,7 +48,7 @@
 
 ということで言ったら先客の別のおじさんがいた。
 
-:hp-image:https://cloud.githubusercontent.com/assets/8326452/9941287/e5fd0c44-5d91-11e5-94b9-2f87af05db2e.jpg
+image::https://cloud.githubusercontent.com/assets/8326452/9941287/e5fd0c44-5d91-11e5-94b9-2f87af05db2e.jpg
 
 写真撮られたからかこのおじさん割といろいろなことを語ってくれてうれしかったんだけど、最初の方に書いたとおりとにかく体調的に*割と早く済ませたかったので'Oh!'とか'I see.'とかテキトーに相槌うって'Thank you!'とか言って早々に別れた。*
 
@@ -64,6 +64,6 @@
 
 ということでこれが謎の火
 
-:hp-image:https://cloud.githubusercontent.com/assets/8326452/9941281/e5c0b7ee-5d91-11e5-9637-5816519301e4.jpg
+image::https://cloud.githubusercontent.com/assets/8326452/9941281/e5c0b7ee-5d91:-11e5-9637-5816519301e4.jpg
 
 :hp-tags: india, Ganesha
