@@ -33,7 +33,7 @@
 おー。I see.あいしー。
 ということで靴下は履いたままでよさそう。
 
-:hp-image: https://cloud.githubusercontent.com/assets/8326452/9941285/e5eb1340-5d91-11e5-87f4-972af0de99ab.jpg
+image::https://cloud.githubusercontent.com/assets/8326452/9941285/e5eb1340-5d91-11e5-87f4-972af0de99ab.jpg
 
 うっし。テキトーに写真撮って帰ろうとネガティブモードでいたらまたおっさんがなんか言ってる。
 
