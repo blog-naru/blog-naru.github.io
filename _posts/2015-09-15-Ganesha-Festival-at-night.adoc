@@ -1,1 +1,19 @@
-= 9月17日はガネーシャ・フェスティバル！
+= ブログテンプレ
+:published_at: 2015-09-15
+:hp-image: https://cloud.githubusercontent.com/assets/8326452/9882148/e6a7f16a-5bf0-11e5-93db-998f19a81df4.jpg
+:hp-alt-title: Ganesha Festival at night
+
+
+インド滞在に向けてブログ作ろうと決めたのは確かフライトの2週間前。
+気付いたらもう2週間滞在してた。
+
+image::https://cloud.githubusercontent.com/assets/8326452/9941281/e5c0b7ee-5d91:-11e5-9637-5816519301e4.jpg[これ]
+
+バンガロールがどんなところかをありのままで伝えていけたらなと思います。
+更新頻度を高めに設定してがんばります。
+
+でも*目標値を言わない*あたりがポイントね。
+
+三日坊主にならないように気を付けます・。・ｖ
+
+:hp-tags: india
