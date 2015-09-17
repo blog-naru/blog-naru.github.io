@@ -15,7 +15,7 @@
 お祭りの時期だからかぬのがかけてありました。
 ぬの。
 
-:hp-image: https://cloud.githubusercontent.com/assets/8326452/9941279/e5b75adc-5d91-11e5-9775-1713e1d0531e.jpg
+image:: https://cloud.githubusercontent.com/assets/8326452/9941279/e5b75adc-5d91-11e5-9775-1713e1d0531e.jpg
 
 さっそく中に入ってみた。
 もう場違い感極まりないけど周りの視線をスルーして近くまで言ったらおっさんが話しかけてきた。
@@ -33,7 +33,7 @@
 おー。I see.あいしー。
 ということで靴下は履いたままでよさそう。
 
-image::https://cloud.githubusercontent.com/assets/8326452/9941285/e5eb1340-5d91-11e5-87f4-972af0de99ab.jpg
+image:: https://cloud.githubusercontent.com/assets/8326452/9941285/e5eb1340-5d91-11e5-87f4-972af0de99ab.jpg
 
 うっし。テキトーに写真撮って帰ろうとネガティブモードでいたらまたおっさんがなんか言ってる。
 
@@ -48,7 +48,7 @@ image::https://cloud.githubusercontent.com/assets/8326452/9941285/e5eb1340-5d91-
 
 ということで言ったら先客の別のおじさんがいた。
 
-image::https://cloud.githubusercontent.com/assets/8326452/9941287/e5fd0c44-5d91-11e5-94b9-2f87af05db2e.jpg
+image:: https://cloud.githubusercontent.com/assets/8326452/9941287/e5fd0c44-5d91-11e5-94b9-2f87af05db2e.jpg
 
 写真撮られたからかこのおじさん割といろいろなことを語ってくれてうれしかったんだけど、最初の方に書いたとおりとにかく体調的に*割と早く済ませたかったので'Oh!'とか'I see.'とかテキトーに相槌うって'Thank you!'とか言って早々に別れた。*
 
@@ -64,6 +64,22 @@ image::https://cloud.githubusercontent.com/assets/8326452/9941287/e5fd0c44-5d91-
 
 ということでこれが謎の火
 
-image::https://cloud.githubusercontent.com/assets/8326452/9941281/e5c0b7ee-5d91:-11e5-9637-5816519301e4.jpg
+image:: https://cloud.githubusercontent.com/assets/8326452/9941281/e5c0b7ee-5d91:-11e5-9637-5816519301e4.jpg
+
+おかげさまでモクモクしてて余計にカラダに悪そうだった。
+
+謎の文様。お祭りの時期にはどこにも書いてあるらしく、民家の前とか平気でたくさん書いてある。
+image:: https://cloud.githubusercontent.com/assets/8326452/9941283/e5c33c62-5d91-11e5-8afd-69c7ad9003b4.jpg
+
+
+これを食うのか。
+image:: https://cloud.githubusercontent.com/assets/8326452/9941282/e5c3625a-5d91-11e5-9606-4a24a52fceff.jpg
+
+
+大きな神様
+image:: https://cloud.githubusercontent.com/assets/8326452/9941280/e5bc0c1c-5d91-11e5-813d-bee7da455e3d.jpg
+
+ここにもゾウと思ったけどよーく見てみるとクマ。かわいいけど、一体どんな関係があるのだろう。
+image:: https://cloud.githubusercontent.com/assets/8326452/9941284/e5ceafac-5d91-11e5-8f0c-02eb69e5e71d.jpg
 
 :hp-tags: india, Ganesha
