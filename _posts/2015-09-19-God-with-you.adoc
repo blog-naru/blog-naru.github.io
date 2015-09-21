@@ -72,4 +72,4 @@ image::https://cloud.githubusercontent.com/assets/8326452/9975872/4955e91a-5eea-
 カンタンながらこの国の神についてご紹介させていただきました。 +
 この国の神はとてもひとつの記事では紹介しきれないほど深遠な存在であるので、今後も何度か記事を書いてお伝えできたらと思います。
 
-:hp-tags: india, god, cow
+:hp-tags: india, god, cow, animal
