@@ -1,6 +1,6 @@
 = じわじわくるインドのTVCM4選
 :published_at: 2015-09-21
-
+:hp-image: https://cloud.githubusercontent.com/assets/8326452/9882148/e6a7f16a-5bf0-11e5-93db-998f19a81df4.jpg
 :hp-alt-title: indian_lol_tvc
 
 今日はこっちで見たテレビCMでじわじわくるやつがあったので紹介したいと思います。 +
