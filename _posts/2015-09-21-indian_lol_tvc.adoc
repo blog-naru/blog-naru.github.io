@@ -8,7 +8,9 @@
 
 == 1. ideaのCM
 
-video::https://www.youtube.com/watch?v=u0shkVQBb2A[idea_youtube]
+video::v=u0shkVQBb2A[idea_youtube]
 
+
+これ
 
 :hp-tags: lol, tvc, video
