@@ -1,5 +1,4 @@
 = バンガロールは交通量が多いです。
-:published_at: 2015-09-21
 :hp-image: https://cloud.githubusercontent.com/assets/8326452/9988257/8ad13920-606c-11e5-8086-216f6f94f8de.jpg
 :hp-alt-title: dogs_in_india
 
@@ -34,7 +33,9 @@ image::https://cloud.githubusercontent.com/assets/8326452/9988256/8ab19908-606c-
 == 道が渡れない
 image::https://cloud.githubusercontent.com/assets/8326452/9988251/8aaae8a6-606c-11e5-97ef-b886804d2c16.jpg[icloundt_move]
 信号は少ないし交通量多いし横断歩道なんてないしってなると何が起きるかというと、道を渡れなくなります。 +
-交通量多めの道で10分近く待つなんてよくあることです。 +
+真ん中で立ち往生することもままあります。 +
+写真のように交通量多めの道で10分近く待つなんてよくあることです。
+
 ちなみにインド人はなぜか渡れます。 +
 バイクが来ててもそのまま進みます。彼らなぜかすっと避けられるんです。基本的には車やバイクはあんまり人を避けません。 +
 その模様をはじめて見ると*自殺志願者かな？*って思います。
