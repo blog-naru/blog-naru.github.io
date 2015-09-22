@@ -1,6 +1,6 @@
 = バンガロールは交通量が多いです。
 :hp-image: https://cloud.githubusercontent.com/assets/8326452/9988257/8ad13920-606c-11e5-8086-216f6f94f8de.jpg
-:hp-alt-title: dogs_in_india
+:hp-alt-title: heavy_bangalore_traffic
 
 多いってレベルじゃないです。 +
 なんかもうおかしいです。 +
