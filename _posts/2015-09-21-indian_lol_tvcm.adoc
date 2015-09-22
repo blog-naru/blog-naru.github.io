@@ -1,7 +1,7 @@
 = じわじわくるインドのTVCM4選
 :published_at: 2015-09-21
 :hp-image: https://cloud.githubusercontent.com/assets/8326452/9995382/63519380-609f-11e5-822c-ba63b705c0cc.jpg
-:hp-alt-title: indian_lol_tvc
+:hp-alt-title: indian_lol_tvcm
 
 今回はこっちで見たテレビCMでじわじわくるやつがいくつかあったので紹介したいと思います。
 
@@ -71,4 +71,4 @@ ideaのCMはやたらとやっています。 +
 
 ※ 基本的にはまともなCMばかりです。
 
-:hp-tags: lol, tvc, video
+:hp-tags: lol, tvcm, video
