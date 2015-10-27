@@ -1,6 +1,6 @@
 = 週末旅行日誌！ 北インド編2 - #バンガロールの空港でワンデイホテルに泊まったよ！
 :published_at: 2015-10-27
-:hp-image:https://cloud.githubusercontent.com/assets/8326452/10753469/2f46b2e4-7cb7-11e5-8cb8-c7799bb69fc1.png
+:hp-image: https://cloud.githubusercontent.com/assets/8326452/10753469/2f46b2e4-7cb7-11e5-8cb8-c7799bb69fc1.png
 :hp-alt-title: north_india_trip_onedayhotel
 
 
